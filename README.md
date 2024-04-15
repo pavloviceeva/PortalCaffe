@@ -10,14 +10,12 @@
             font-family: Arial, sans-serif;
             background-color: black ;
             margin: 0;
-            padding: 0;
-        }
+            padding: 0;   }
         header {
             background-color: gold;
             color: black
             padding: 10px;
-            text-align: center;
-        }
+            text-align: center;  }
     </style>
 </head>
 <body>
@@ -51,9 +49,9 @@
     
 <section id="kontakt">
         <h2>Kontakt</h2>
-        <p>Adresa: Adresa vašeg kafića</p>
-        <p>Telefon: Vaš kontakt telefon</p>
-        <p>Email: Vaš email</p>
+        <p>Adresa: Futoska 20, Novi Sad</p>
+        <p>Telefon: 0616095406</p>
+        <p>Email: caffeportal@gmail.com</p>
     </section>
     
   <footer>
