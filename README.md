@@ -45,8 +45,8 @@
     </section>
     <section id="galerija">
         <h2>Galerija</h2>
-        <img src="slika1.jpg" alt="Slika 1">
-        <img src="slika2.jpg" alt="Slika 2">
+        <img src="slika 1.jpeg" alt="Slika 1">
+        <img src="slika 2.jpeg" alt="Slika 2">
     </section>
     
 <section id="kontakt">
