@@ -56,9 +56,8 @@
         <p>Email: Vaš email</p>
     </section>
     
-    <footer>
-        <!-- Dodajte footer informacije ovde -->
-        <p>&copy; 2024 PortalCaffe. Sva prava zadržana.</p>
+  <footer>
+        <p>&copy; 2023 PortalCaffe.</p>
     </footer>
 </body>
 </html>
